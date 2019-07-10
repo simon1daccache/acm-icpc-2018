@@ -18,6 +18,15 @@ int main()
     }while (n<2||n>2500);
 
     cin>> paragraph;
+    
+    //for loop with counter i to enter the number
+    for(int i=0;i<n;i++)
+    {
+        for(int j=0;j<n;j++)
+        {
+            
+        }
+    }
 
     
 return 0;
