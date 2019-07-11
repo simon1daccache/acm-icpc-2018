@@ -38,8 +38,8 @@ string longest_word(string paragraph)
         {
             if(longest_length<index)
             {
-                 longest_length = index;
-                 index = 0;
+                longest_length = index;
+                index = 0;
             }
             
         }
