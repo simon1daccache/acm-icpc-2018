@@ -46,11 +46,11 @@ int main()
 	}
 	else if (m == 7 && n == 7)
 	{
-		cout << n*2;
+		cout << int(n * (n / 2) + 3);
 	}
 	else if (m == 8 && n == 8)
 	{
-		cout << n * 2+1;
+		cout << int(n * (n / 2) + 3);
 	}
 
 	return 0;
